@@ -24,7 +24,7 @@
  2.7、使用文本打开这两个文件获取私钥与公钥
  注意：私钥文件中的私钥不全，使用终端生成的私钥
  ---------------------------------------
- NSString *pw = @"123456!Ab";
+ NSString *pw = @"123456Test";
  // 公钥 加密
  NSString *encryptStr = [RSA encryptString:pw publicKey:公钥字符串];
  // 私钥 解密
