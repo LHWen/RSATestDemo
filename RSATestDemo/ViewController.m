@@ -34,7 +34,7 @@ static NSString *const RSAPublicKey = @"MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDB
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    NSString *pw = @"123456!Ab";
+    NSString *pw = @"123456Test";
     // 公钥 加密
     NSString *encryptStr = [RSA encryptString:pw publicKey:RSAPublicKey];
     NSLog(@"加密结果： %@", encryptStr);
