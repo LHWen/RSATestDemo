@@ -31,6 +31,7 @@
 /* Begin PBXFileReference section */
 		6150422821F17157006EF8EB /* NSString+Base64Tool.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSString+Base64Tool.h"; sourceTree = "<group>"; };
 		6150422921F17157006EF8EB /* NSString+Base64Tool.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "NSString+Base64Tool.m"; sourceTree = "<group>"; };
+		6156B2B222028E6E00F4E48F /* MakeFile.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MakeFile.h; sourceTree = "<group>"; };
 		6166B32021ED746100A4D5C1 /* RSATestDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RSATestDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6166B32321ED746100A4D5C1 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		6166B32421ED746100A4D5C1 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -87,6 +88,7 @@
 		6166B32221ED746100A4D5C1 /* RSATestDemo */ = {
 			isa = PBXGroup;
 			children = (
+				6156B2B222028E6E00F4E48F /* MakeFile.h */,
 				6166B32321ED746100A4D5C1 /* AppDelegate.h */,
 				6166B32421ED746100A4D5C1 /* AppDelegate.m */,
 				6166B32621ED746100A4D5C1 /* ViewController.h */,
